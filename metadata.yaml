@@ -1,0 +1,33 @@
+_repo: Plastic-and-cosmetic-surgery_73452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kolle, Frederick Strange
+    alias: Kolle, F. Strange (Frederick Strange)
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '57077'
+    url: http://www.gutenberg.org/2009/agents/57077
+description: ''
+gutenberg_issued: '2024-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73452'
+  lccn: '11001041'
+language: en
+pgterms:marc904: https://archive.org/details/plasticcosmetics00kolliala
+pgterms:marc905: 20220727041710kolle
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Appleton and Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Surgery, Plastic'
+- !lcc 'RD'
+- GITenberg
+title: Plastic and cosmetic surgery
+url: http://www.gutenberg.org/ebooks/73452
