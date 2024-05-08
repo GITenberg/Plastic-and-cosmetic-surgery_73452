@@ -1,5 +1,8 @@
 _repo: Plastic-and-cosmetic-surgery_73452
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73452-h/images/cover.jpg
 creator:
   author:
     agent_name: Kolle, Frederick Strange
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57077'
     url: http://www.gutenberg.org/2009/agents/57077
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73452#Plastic-and-cosmetic-surgery
 gutenberg_issued: '2024-04-23'
 gutenberg_type: Text
 identifiers:
